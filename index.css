@@ -9,7 +9,7 @@ body {
 
 .container {
     background: transparent;
-    max-width: 88%;
+    max-width: 400px;
     margin: auto;
     margin-bottom: 20%;
     padding-top: 5%;
